@@ -32,7 +32,7 @@ int main(){
     }
     for(int i = 0; i < n; i++){
         int left, right;
-        scanf(%d %d, &left, &right);
+        scanf("%d %d", &left, &right);
         if(left != -1) Node[i]->lchild = Node[left];
         if(right != -1) Node[i]->rchild = Node[right];
     }
