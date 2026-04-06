@@ -1,5 +1,5 @@
 //*time: 2026.4.5
-//*idea: the core idea is same like P1001, the difference is that B1001 uses pointers(指针), whereas P1001 uses array indices(数组下标)
+//*idea: the core idea is same like B1001, the difference is that B1001 uses pointers(指针), whereas P1001 uses array indices(数组下标)
 
 #include <cstdio>
 const int maxn = 50;
